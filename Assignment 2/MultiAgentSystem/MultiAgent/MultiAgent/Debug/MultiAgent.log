@@ -1,0 +1,23 @@
+﻿  MultiAgent.cpp
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(151): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(166): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(167): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(168): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(173): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(174): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(175): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(190): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(191): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(218): warning C4018: '<=': signed/unsigned mismatch
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(231): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(235): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(239): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(251): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(255): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(305): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(413): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(181): warning C4715: 'Agent::trade': not all control paths return a value
+c:\users\admin\desktop\uit 5th year\project\assignment 2\multiagentsystem\multiagent\multiagent\multiagent.cpp(277): warning C4715: 'Agent::atBoundaries': not all control paths return a value
+LINK : fatal error LNK1168: cannot open C:\Users\Admin\Desktop\UiT 5th year\Project\Assignment 2\MultiAgentSystem\MultiAgent\Debug\MultiAgent.exe for writing
